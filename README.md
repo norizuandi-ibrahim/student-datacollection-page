@@ -1,2 +1,2 @@
-# ids-analysis-page
-To display an analysis of the company's network healthiness
+# student-data collection-page
+To Collect student academic progress data
